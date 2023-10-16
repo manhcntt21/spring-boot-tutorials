@@ -7,3 +7,6 @@
 [submodule "spring-security"]
 	path = spring-security
 	url = git@github.com:manhcntt21/spring-security.git
+[submodule "springboot-mongodb"]
+	path = springboot-mongodb
+	url = git@github.com:manhcntt21/springboot-mongodb.git
