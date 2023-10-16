@@ -1,0 +1,3 @@
+[submodule "spring-validation"]
+	path = spring-validation
+	url = git@github.com:manhcntt21/spring-validation.git
