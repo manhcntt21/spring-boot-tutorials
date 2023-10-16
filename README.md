@@ -5,3 +5,5 @@ Repository này chứa một số nội dung cơ bản về Spring Boot bao gồ
 2. [spring boot handle exception](./spring-exception-handling)
 3. [spring boot 3+, spring security 6+ with JWT](./spring-security)
 4. [spring boot data jpa with mongo database](./springboot-mongodb)
+***
+Nếu cảm thấy hữu ích đừng ngần ngại gửi tặng tôi một ngôi sao (star) để tôi có động lực hơn hoàn thành những giáo án chất lượng, cám ơn các bạn rất nhiều.
