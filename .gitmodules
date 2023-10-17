@@ -10,3 +10,6 @@
 [submodule "springboot-mongodb"]
 	path = springboot-mongodb
 	url = git@github.com:manhcntt21/springboot-mongodb.git
+[submodule "junit5"]
+	path = junit5
+	url = git@github.com:manhcntt21/junit5.git
