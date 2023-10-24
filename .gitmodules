@@ -13,3 +13,6 @@
 [submodule "junit5"]
 	path = junit5
 	url = git@github.com:manhcntt21/junit5.git
+[submodule "mockito-tutorials"]
+	path = mockito-tutorials
+	url = git@github.com:manhcntt21/mockito-tutorials.git
